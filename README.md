@@ -18,7 +18,8 @@ Just trying to develop my optimal hotkeys
    - archery range
    - siege workshop
    - castle
-   
+- I need to be able to change the arrangement of my units quickly. I also need to be able to change how aggressive they are quickly
+- I need to be able to produce units quickly especially the ones I like to use the most
 - I don't need to mirror the layout of the buttons on screen to match the position of the keys on the keyboard
 
 ## What Keys I Have to Work With
@@ -33,5 +34,7 @@ This leaves me with the following layout to use:
 |---|---|---|---|---|
 | u | i | a | e | o |
 | ü | ö | ä | p | z |
+
+These are 15 keys and they can be re-used with a modifier 3 more times for a sum of 60 possible bindings.
 
 I seem to favor the right most keys of this layout the most but not the last keys to the right because I have to move my fingers from the home row to reach them. So my most important keys should be to the right but not in the last row.
