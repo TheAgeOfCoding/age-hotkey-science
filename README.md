@@ -23,3 +23,15 @@ Just trying to develop my optimal hotkeys
 
 ## What Keys I Have to Work With
 ![Image of taken from neo-layout.de](neo-layout.png)
+
+Since my right hand is on the mouse in the game I only have the left half of the keyboard to work with.
+Since I can still reach shift, alt and ctrl with my thumb I can unlock additional 3 layers as variations of these keys.
+
+This leaves me with the following layout to use:
+
+| x | v | l | c | w |
+|---|---|---|---|---|
+| u | i | a | e | o |
+| ü | ö | ä | p | z |
+
+I seem to favor the right most keys of this layout the most but not the last keys to the right because I have to move my fingers from the home row to reach them. So my most important keys should be to the right but not in the last row.
