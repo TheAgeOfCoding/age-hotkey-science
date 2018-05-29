@@ -38,3 +38,8 @@ This leaves me with the following layout to use:
 These are 15 keys and they can be re-used with a modifier 3 more times for a sum of 60 possible bindings.
 
 I seem to favor the right most keys of this layout the most but not the last keys to the right because I have to move my fingers from the home row to reach them. So my most important keys should be to the right but not in the last row.
+
+## The Hotkeys
+![Page 1 - Age of Empires Hotkeys](keys.svg)
+
+![Page 2 - Age of Empires Hotkeys](keys1.svg)
