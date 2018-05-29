@@ -19,3 +19,4 @@ Just trying to develop my optimal hotkeys
    - siege workshop
    - castle
    
+- I don't need to mirror the layout of the buttons on screen to match the position of the keys on the keyboard
