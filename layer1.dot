@@ -1,0 +1,27 @@
+digraph D {
+    node [pin=true, width=2, height=1, shape=record, fixedsize=true, autosize=false, fontname="Arial"];
+    subgraph cluster_0 {
+      e [label="Idle Military"];
+      d [label="Flank"];
+      c [label="Line"];
+      b [label="Box"];
+      a [label="Staggered"];
+    }
+    subgraph cluster_1 {
+      j [label="Go to\nTown Center"];
+      i [label="Build"];
+      h [label="Patrol"];
+      g [label="Attack\n Ground"];
+      f [label="Stop"];
+    }
+
+    subgraph cluster_2 {
+      k [label="Idle Villager"];
+      l [label="Defensive Stance"];
+      m [label="Aggresive Stance"];
+      n [label="Stand Still"];
+      o [label="(free)"];
+    }
+  a -> f [style=invis];
+  j -> k [style=invis];
+}
