@@ -40,6 +40,11 @@ These are 15 keys and they can be re-used with a modifier 3 more times for a sum
 I seem to favor the right most keys of this layout the most but not the last keys to the right because I have to move my fingers from the home row to reach them. So my most important keys should be to the right but not in the last row.
 
 ## The Hotkeys
-![Page 1 - Age of Empires Hotkeys](keys.svg)
+### Unit
+![Page 1 - Age of Empires Hotkeys](layer1.png)
 
-![Page 2 - Age of Empires Hotkeys](keys1.svg)
+### Build
+![Page 2 - Age of Empires Hotkeys](layer2.png)
+
+### Build / Go to (Ctrl Modifier)
+![Page 3 - Age of Empires Hotkeys](layer3.png)
