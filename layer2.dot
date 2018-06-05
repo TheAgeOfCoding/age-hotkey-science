@@ -1,0 +1,27 @@
+digraph D {
+    node [pin=true, width=2, height=1, shape=record, fixedsize=true, autosize=false, fontname="Arial"];
+    subgraph cluster_0 {
+      e [label="Outpost"];
+      d [label="Barracks"];
+      c [label="Stable"];
+      b [label="Archery"];
+      a [label="Siege"];
+    }
+    subgraph cluster_1 {
+      j [label="Castle"];
+      i [label="House"];
+      h [label="Farm"];
+      g [label="Lumber Camp"];
+      f [label="Mill"];
+    }
+
+    subgraph cluster_2 {
+      k [label="Dock"];
+      l [label="Wall"];
+      m [label="Gate"];
+      n [label="Palisade"];
+      o [label="Palisade Gate"];
+    }
+  a -> f [style=invis];
+  j -> k [style=invis];
+}
