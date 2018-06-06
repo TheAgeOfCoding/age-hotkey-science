@@ -8,11 +8,11 @@ digraph D {
       a [label="Build Fish Trap"];
     }
     subgraph cluster_1 {
-      j [label="Build Town Center"];
+      j [label="Build Castle"];
       i [label="Build Tower"];
       h [label="Build Bombard Tower"];
       g [label="Build Monastery"];
-      f [label="Build Castle"];
+      f [label="(free)"];
     }
 
     subgraph cluster_2 {
