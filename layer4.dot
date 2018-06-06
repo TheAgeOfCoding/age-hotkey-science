@@ -1,0 +1,27 @@
+digraph D {
+    node [pin=true, width=2, height=1, shape=record, fixedsize=true, autosize=false, fontname="Arial"];
+    subgraph cluster_0 {
+      e [label="Go to Notification"];
+      d [label="Go to Barracks"];
+      c [label="Go to Stable"];
+      b [label="Go to Archery"];
+      a [label="Go to\nSiege Workshop"];
+    }
+    subgraph cluster_1 {
+      j [label="Go to Castle"];
+      i [label="Go to Market"];
+      h [label="Go to Blacksmith"];
+      g [label="Go to Monastery"];
+      f [label="Go to Mill"];
+    }
+
+    subgraph cluster_2 {
+      k [label="Go to Dock"];
+      l [label="(free)"];
+      m [label="(free)"];
+      n [label="(free)"];
+      o [label="(free)"];
+    }
+  a -> f [style=invis];
+  j -> k [style=invis];
+}

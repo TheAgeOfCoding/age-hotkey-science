@@ -8,7 +8,7 @@ digraph D {
       a [label="Siege"];
     }
     subgraph cluster_1 {
-      j [label="Castle"];
+      j [label="Town Center"];
       i [label="House"];
       h [label="Farm"];
       g [label="Lumber Camp"];
@@ -16,7 +16,7 @@ digraph D {
     }
 
     subgraph cluster_2 {
-      k [label="Dock"];
+      k [label="Mining Camp"];
       l [label="Wall"];
       m [label="Gate"];
       n [label="Palisade"];

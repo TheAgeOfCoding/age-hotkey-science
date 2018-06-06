@@ -1,26 +1,26 @@
 digraph D {
     node [pin=true, width=2, height=1, shape=record, fixedsize=true, autosize=false, fontname="Arial"];
     subgraph cluster_0 {
-      e [label="Go to Notification"];
-      d [label="Go to Barracks"];
-      c [label="Go to Stable"];
-      b [label="Go to Archery"];
-      a [label="Go to\nSiege Workshop"];
+      e [label="Build Feitoria"];
+      d [label="Build Market"];
+      c [label="Build Blacksmith"];
+      b [label="Build Dock"];
+      a [label="Build Fish Trap"];
     }
     subgraph cluster_1 {
-      j [label="Go to Castle"];
-      i [label="Build Market"];
-      h [label="Build Blacksmith"];
+      j [label="Build Town Center"];
+      i [label="Build Tower"];
+      h [label="Build Bombard Tower"];
       g [label="Build Monastery"];
-      f [label="Go to Mill"];
+      f [label="Build Castle"];
     }
 
     subgraph cluster_2 {
-      k [label="Go to Dock"];
-      l [label="Go to Market"];
-      m [label="Go to Blacksmith"];
-      n [label="Go to Monastery"];
-      o [label="Build Town Center"];
+      k [label="Build Harbor"];
+      l [label="(free)"];
+      m [label="(free)"];
+      n [label="(free)"];
+      o [label="Build Wonder"];
     }
   a -> f [style=invis];
   j -> k [style=invis];
