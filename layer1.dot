@@ -20,7 +20,7 @@ digraph D {
       l [label="Defensive Stance"];
       m [label="Aggresive Stance"];
       n [label="Stand Still"];
-      o [label="(free)"];
+      o [label="Guard"];
     }
   a -> f [style=invis];
   j -> k [style=invis];
