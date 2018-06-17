@@ -17,7 +17,7 @@ digraph D {
 
     subgraph cluster_2 {
       k [label="Go to Dock"];
-      l [label="(free)"];
+      l [label="Garrison Units"];
       m [label="(free)"];
       n [label="(free)"];
       o [label="(free)"];
