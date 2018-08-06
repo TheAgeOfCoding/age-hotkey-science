@@ -19,7 +19,7 @@ digraph D {
       k [label="Go to Dock"];
       l [label="Garrison Units"];
       m [label="Ungarrison Units"];
-      n [label="(free)"];
+      n [label="Set Gatherpoint"];
       o [label="(free)"];
     }
   a -> f [style=invis];
