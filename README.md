@@ -8,7 +8,7 @@ Just trying to develop my optimal hotkeys
    - house
    - farm
    - town center
-   - wood
+   - lumber camp
    - pallisades
    - walls
    - pallisade gate
